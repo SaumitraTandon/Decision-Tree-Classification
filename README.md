@@ -1,4 +1,4 @@
-# README for Decision Tree Classification
+# Decision Tree Classification
 
 ## Overview
 
